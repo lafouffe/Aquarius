@@ -52,8 +52,3 @@ DON'T WORRY!  In almost all cases, it probably means you have the wrong PORT sel
 <li>If you notice that the water stream is slightly tilted to one side, you can gently nudge/move the water spout away from that side with your finger.  The spout is very sensitive and may have moved either during transit/shipping, due to temperature changes in your environment, or even bumped by accident.  Moving the spout gently will not damage it and may be required if it has shifted over time.  Remember to move it gently as it is attached to a spring mechanism as well as SLA printed part which are fragile.<br/></li>
 
 </p>
-
-#### Copyright (C) Northern Circuits Inc - All Rights Reserved
-* Unauthorized distribution of any file listed in this repository, via any medium is strictly prohibited without written consent from the original author (stephen.co@northern-circuits.ca).
-* Files may be modified or used directly for personal use only.
-* At any point in time, the author may (at his discretion) release all files to the public domain without advance notice.
