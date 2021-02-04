@@ -1,10 +1,3 @@
-# Aquarius by Northern Circuits Inc
-Repo for Aquarius Source Code.
-
-Created by Stephen Co <stephen.co@northern-circuits.ca>, January 2018.
-
-Please refer to the heavily commented sketch code for usage.  In general, user parameters are marked with *** USER SETTINGS *** in the code.  When changing electromagnet duty cycle, never increment more than 5.  Always edit, upload, test, and iterate!\
-
 # Programming instructions
 
 So here goes, this is an example of how to program the width of the visible water stream to be wider or narrower.
